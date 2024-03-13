@@ -1,1 +1,1 @@
-# Basic app to add and edit Birthdays
+# "Birthday Manager" the app that allows users to easily add, update, and delete birthdays.
